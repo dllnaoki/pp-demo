@@ -1,0 +1,28 @@
+{
+  "pages": [
+    {
+      "id": "Page1",
+      "isDefault": true
+    },
+    {
+      "id": "页面1",
+      "isDefault": false
+    },
+    {
+      "id": "页面2",
+      "isDefault": false
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "color": "#ECECEC",
+  "unpublishedCustomJSLibs": [],
+  "publishedCustomJSLibs": [],
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "isManualUpdate": false,
+  "viewerLayout": "{\"color\":\"#553DE9\",\"logoUrl\":\"\",\"name\":\"My first application\",\"treeData\":[{\"title\":\"Page1\",\"pageId\":\"65140c5626507959d68f782d\",\"isPage\":true,\"key\":\"65140c5626507959d68f782d\",\"children\":[]},{\"title\":\"页面1\",\"pageId\":\"65140c6b26507959d68f7843\",\"isPage\":true,\"key\":\"65140c6b26507959d68f7843\",\"children\":[]},{\"title\":\"一级目录\",\"key\":\"f13a53b9-825a-4744-a406-4e4f25916f86\",\"children\":[{\"title\":\"页面2\",\"pageId\":\"65140c6f26507959d68f7848\",\"isPage\":true,\"key\":\"65140c6f26507959d68f7848\",\"children\":[]}]}],\"outsiderTree\":[]}",
+  "deleted": false
+}

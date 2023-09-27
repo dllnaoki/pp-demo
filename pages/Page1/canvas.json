@@ -1,0 +1,86 @@
+{
+  "unpublishedPage": {
+    "name": "Page1",
+    "slug": "page1",
+    "layouts": [
+      {
+        "viewMode": false,
+        "dsl": {
+          "widgetName": "MainContainer",
+          "backgroundColor": "none",
+          "rightColumn": 4896,
+          "snapColumns": 64,
+          "detachFromLayout": true,
+          "widgetId": "0",
+          "topRow": 0,
+          "bottomRow": 380,
+          "containerStyle": "none",
+          "snapRows": 124,
+          "parentRowSpace": 1,
+          "type": "CANVAS_WIDGET",
+          "canExtend": true,
+          "version": 79,
+          "minHeight": 1292,
+          "dynamicTriggerPathList": [],
+          "parentColumnSpace": 1,
+          "dynamicBindingPathList": [],
+          "leftColumn": 0,
+          "children": [
+            {
+              "boxShadow": "none",
+              "mobileBottomRow": 28,
+              "widgetName": "Animation1",
+              "isCanvas": false,
+              "displayName": "Animation",
+              "iconSVG": "/static/media/icon.58341e64453bee85a3ada346953a7ab5.svg",
+              "searchTags": [
+                "animation",
+                "image"
+              ],
+              "topRow": 16,
+              "bottomRow": 28,
+              "parentRowSpace": 10,
+              "type": "ANIMATION_WIDGET",
+              "floatLayout": true,
+              "hideCard": false,
+              "animationType": "anima1",
+              "mobileRightColumn": 25,
+              "animateLoading": true,
+              "parentColumnSpace": 16.71875,
+              "leftColumn": 13,
+              "dynamicBindingPathList": [
+                {
+                  "key": "borderRadius"
+                }
+              ],
+              "key": "w12y02qwhk",
+              "isDeprecated": false,
+              "rightColumn": 25,
+              "objectFit": "cover",
+              "widgetId": "lkohzuzzcg",
+              "isVisible": true,
+              "version": 1,
+              "parentId": "0",
+              "renderMode": "CANVAS",
+              "isLoading": false,
+              "mobileTopRow": 16,
+              "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+              "mobileLeftColumn": 13
+            }
+          ]
+        },
+        "layoutOnLoadActions": [],
+        "layoutOnLoadActionErrors": [],
+        "validOnPageLoadActions": true,
+        "id": "Page1",
+        "deleted": false,
+        "policies": [],
+        "userPermissions": []
+      }
+    ],
+    "userPermissions": [],
+    "policies": []
+  },
+  "deleted": false,
+  "gitSyncId": "65140c5526507959d68f782a_65140c5526507959d68f782c"
+}
